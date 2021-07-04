@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: ':3 !',
-    introDesc: `Dạo này mày đánh tạo hơi bị nhiều đấy`,
+    introDesc: ` 🥺🥺🥺`,
     btnIntro: 'dổi',
     title: ' 🙄🙄🙄',
     desc: 'xem tiếp không ??',
